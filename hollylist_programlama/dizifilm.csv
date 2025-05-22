@@ -1,0 +1,38 @@
+kullaniciAdi,Dizi/Film,Tür,Ad,İlerleme,Puan,Not,Durum,Afiş
+gizoz,Film,Fantastik/Macera,Harry Potter ve Felsefe Taşı,1/1,4,Zevkli bir film.,İzlendi,afisler/harry_potter.jpg
+gizoz,Film,Fantastik/Dram,Wednesday,0/8,3,,İzlendi,afisler/wednesday.jpg
+gizoz,Film,Suç/Dram,Joker,0/1,0,Mutlaka izlenmeli.,İzlenecek,afisler/joker.jpg
+gizoz,Film,Macera,Interstellar,0/1,0,Bilim kurgu şaheseri.,İzlenecek,afisler/interstellar.jpg
+gizoz,Film,Fantastik/Fantastik,Lord of the Rings,0/3,0,Efsanevi bir seri.,İzlenecek,afisler/lord_of_the_rings.jpg
+gizoz,Film,Romantik/Komedi,The Notebook,0/1,0,İzlenecek romantik film.,İzlenecek,afisler/the_notebook.jpg
+gizoz,Dizi,Animasyon/Fantastik,Arcane,5/9,0,Animasyon ve müzikler harika,İzlendi,afisler\arcane_1.jpg
+gizoz,Dizi,Suç/Gerilim,Peaky Blinders,0/6,0,Efsane bir dizi.,İzlenecek,afisler/peaky_blinders.jpg
+gizoz,Dizi,Fantastik/Macera,Stranger Things,0/8,0,Gençlik dizisi.,İzlenecek,afisler/stranger_things.jpg
+gizoz,Dizi,Komedi,Friends,0/10,3,Unutulmaz bir klasik.,İzlenecek,afisler/friends.jpg
+gizoz,Dizi,Dram,Breaking Bad,0/5,0,Fenomen bir yapım.,İzlenecek,afisler/breaking_bad.jpg
+gizoz,Dizi,Bilim Kurgu,Dark,0/3,0,Kafa karıştırıcı bir dizi.,İzlenecek,afisler/dark.jpg
+gizoz,Film,Macera,Avengers: Endgame,1/1,5,Harika bir son.,İzleniyor,afisler/endgame.jpg
+gizoz,Film,Bilim Kurgu,The Matrix,1/1,3,Kült film.,İzleniyor,afisler/matrix.jpg
+gizoz,Film,Dram,Forrest Gump,1/1,5,İzlemeye devam.,İzleniyor,afisler/forrest_gump.jpg
+gizoz,Film,Komedi,Deadpool,1/1,5,Eğlenceli bir film.,İzleniyor,afisler/deadpool_1.jpg
+gizoz,Film,Suç,The Godfather,1/1,3,Efsane bir yapım.,İzleniyor,afisler/godfather.jpg
+gizoz,Film,Animasyon/Çocuk,Shrek,1/1,3,Sevimli bir animasyon.,İzleniyor,afisler/shrek.jpg
+gizoz,Dizi,Dram/Komedi,The Office,4/9,5,Eğlenceli bir dizi.,İzlendi,afisler/the_office.jpg
+gizoz,Dizi,Bilim Kurgu,Westworld,2/4,4,Devam ediyor.,İzleniyor,afisler/westworld.jpg
+gizoz,Dizi,Macera,The Witcher,4/8,3,Fantastik dizi.,İzleniyor,afisler/the_witcher.jpg
+gizoz,Dizi,Suç,Dexter,5/6,4,Gizemli hikaye.,İzleniyor,afisler/dexter.jpg
+gizoz,Dizi,Gerilim,Hannibal,2/3,4,İlginç sahneler.,İzleniyor,afisler/hannibal.jpg
+gizoz,Dizi,Fantastik,Game of Thrones,7/8,3,Efsane bir yapım.,İzlendi,afisler/game_of_thrones.jpg
+gizoz,Film,Belgesel/Dram/Fantastik/Film-Noir/Reality-TV,La La Land,0/1,0,,İzlenecek,afisler/la_la_land.jpg
+gizoz,Film,Suç,The Irishman,0/1,0,,İzlenecek,afisler/irishman_1.jpg
+gizoz,Film,Bilim Kurgu,Inception,1/1,5,Zihin bükücü.,İzlendi,afisler/inception.jpg
+gizoz,Film,Animasyon,Spirited Away,1/1,4,Miyazaki klasiği.,İzlendi,afisler/spirited_away.jpg
+gizoz,Film,Dram,Schindler's List,1/1,5,Unutulmaz bir film.,İzlendi,afisler/schindlers_list.jpg
+gizoz,Film,Komedi,Fight Club,1/1,4,Tartışmalı bir yapım.,İzlendi,afisler/fight_club.jpg
+gizoz,Dizi,Fantastik/Dram,Shadow and Bone,8/8,3,İlginç evren.,İzlendi,afisler/shadow_and_bone.jpg
+gizoz,Dizi,Suç/Drama,Narcos,10/10,3,Gerçek hikaye.,İzlendi,afisler/narcos.jpg
+gizoz,Dizi,Animasyon/Komedi,Rick and Morty,10/10,5,Çılgın bir hikaye.,İzlendi,afisler/rick_and_morty.jpg
+gizoz,Dizi,Gerilim/Macera,Lost,6/6,4,Sürükleyici.,İzlendi,afisler/lost.jpg
+gizoz,Dizi,Dram,The Crown,4/4,3,Kraliyet öyküsü.,İzlendi,afisler/the_crown.jpg
+gizoz,Film,Fantastik,The Curse of Sleeping Beauty,1/1,2,Mid,İzlendi,afisler/thecurseofsleepingbeauty_1.jpg
+gizoz,Dizi,Suç/Savaş/Short,x,10/1,5,gayet güzel,İzleniyor,afisler/endgame.jpg
